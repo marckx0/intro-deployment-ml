@@ -1,0 +1,4 @@
+['remote "dataset-track"']
+    url = gs://model-dataset-tracker-mao/dataset
+['remote "model-track"']
+    url = gs://model-dataset-tracker-mao/model
