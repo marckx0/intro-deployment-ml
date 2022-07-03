@@ -1,0 +1,5 @@
+*.json
+*.csv
+*.pkl
+venv/
+.ipython_checkpoints/
