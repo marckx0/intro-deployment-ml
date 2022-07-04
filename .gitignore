@@ -1,8 +1,9 @@
 venv/
 .ipython_checkpoints/
+.ipynb_checkpoints/
 *.json
 *.csv
 *.pkl
-*.txt
+report.txt
 *.png
 __pycache__/
