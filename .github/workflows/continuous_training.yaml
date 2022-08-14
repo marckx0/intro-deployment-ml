@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       reason:
-      description: why to run this?
-      required: false
-      default: running CT
+        description: why to run this?
+        required: false
+        default: running CT
 jobs:
   continuous-training:
     runs-on: ubuntu-latest
